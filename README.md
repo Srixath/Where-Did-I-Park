@@ -4,11 +4,11 @@ A quick and simple app to help you remember where you parked in large parking lo
 
 ## Features
 
-✅ **One-tap Save** - Save your parking location with one click
-✅ **Live Distance** - Real-time distance indicator showing how far you are from your spot
-✅ **Offline Support** - Works completely offline using browser storage
-✅ **Map Display** - Interactive map showing your location and parking spot
-✅ **Mobile Friendly** - Works great on phones and tablets
+ **One-tap Save** - Save your parking location with one click
+ **Live Distance** - Real-time distance indicator showing how far you are from your spot
+ **Offline Support** - Works completely offline using browser storage
+ **Map Display** - Interactive map showing your location and parking spot
+ **Mobile Friendly** - Works great on phones and tablets
 
 ## Getting Started
 
@@ -87,11 +87,11 @@ vite.config.ts        # Vite config
 
 ## Future Enhancements
 
-- 📷 Photo capture of surroundings
-- 📍 Multiple parking locations history
-- 🔗 Share location with others
-- ⏱️ Time stamp and duration tracking
-- 🎨 Custom themes
+-  Photo capture of surroundings
+-  Multiple parking locations history
+-  Share location with others
+-  Time stamp and duration tracking
+-  Custom themes
 
 ## License
 
